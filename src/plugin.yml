@@ -1,0 +1,5 @@
+name: WeatherFixation
+main: kazuki.weather.Fixation
+version: 1.0.0
+api: [1.0.0]
+author: kazuki102812
